@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="item_menu_hapus" type="id" />
+    <item name="item_menu_tambah" type="id" />
+    <item name="item_bagikan" type="id" />
+</resources>
